@@ -57,3 +57,5 @@ Depending on where the session ends, there will usually be some time span IC bet
 Additional Rules
 
 I will create a github or something to stick additional rules in, since I am going to have to translate some stuff from 3.5 to 5th edition, like rules for ships & naval combat. 
+
+I have added some additional classes (Artificer & Mystic) to the github, you can play those if you want -- Talk to me about it first. 
