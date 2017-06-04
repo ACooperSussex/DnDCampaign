@@ -1,6 +1,6 @@
-Introduction
----
 (Still need to think up names for things -- But this is the general idea)
+---
+Introduction
 
 We will start based in a small port town at the southern edge of one of the smaller continents, which has become much busier in recent years due to increased interest in travel to other continents. So it has been growing quickly in size and wealth.
 
