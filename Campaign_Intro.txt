@@ -36,7 +36,7 @@ People will be suspicious of Dragonborn.
 ---
 Character Creation
 
-You will start at 3rd level.
+You will start at 3rd level. Start with maximum HP.
 You all have your starting equipment plus 300gp to spend on whatever you like from the PHB.
 
 Roll 4d6 and drop the smallest one to determine each of your starting stats. Can be assigned in whatever order you wish.
